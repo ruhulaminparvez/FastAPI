@@ -12,49 +12,49 @@ The key features are:
  - Robust: Get production-ready code. With automatic interactive documentation.
  - Standards-based: Based on (and fully compatible with) the open standards for APIs: OpenAPI (previously known as Swagger) and JSON Schema.
  
-### Learning Pathways
-## Basic Concepts
+## Learning Pathways
+### Basic Concepts
   - Path Parameters
   - API Docs - swagger/redocs
   - Query parameters
   - Request body
 
-## Intermediate Concepts
+### Intermediate Concepts
   - Debugging FastAPI
   - Pydantic Schemas
   - SQLAlchemy database connection
   - Models and table
 
-## Database Tasks
+### Database Tasks
   - Store blogs to database
   - Get blogs from database
   - Delete
   - Update
  
-## Responses
+### Responses
   - Handling Exceptions
   - Return response
   - Define response model
 
-## User and Password
+### User and Password
   - Create User
   - Hash user password
   - Show single user
   - Define docs tags
  
-## Relationship
+### Relationship
   - Define user to blog relationship
   - Define blog to user relationship
 
-## Refactor for bigger Application
+### Refactor for bigger Application
   - API Router
   - API Router with parameters
 
-## Authentication using JWT
+### Authentication using JWT
   - Create Login route
   - Login and verify password
   - Ruturn JWT access token
   - Routes behind authentication
 
-## Deploy FastAPI
+### Deploy FastAPI
   - Using Deta.sh website to deploy
