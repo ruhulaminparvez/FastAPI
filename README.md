@@ -12,7 +12,7 @@ The key features are:
  - Robust: Get production-ready code. With automatic interactive documentation.
  - Standards-based: Based on (and fully compatible with) the open standards for APIs: OpenAPI (previously known as Swagger) and JSON Schema.
  
-## Learning Pathways
+## Learning Pathways 🗺️
 ### Basic Concepts
   - Path Parameters
   - API Docs - swagger/redocs
