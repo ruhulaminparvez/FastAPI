@@ -1,11 +1,10 @@
-from typing import Union
-
 from fastapi import FastAPI
+
 
 app = FastAPI()
 
-
-@app.get("/")
+@app.get('/')
 def index():
-    return {'fakir gusti': {'name': 'fakir mahamud', 'age': '24'}}
+    return "Hello, FastAPI"
+
 
